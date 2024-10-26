@@ -1,0 +1,6 @@
+# RAG-based Chatbot project
+A RAG chatbot with Llamaindex, FAISS, OpenAI
+Tutorial: https://learnbybuilding.ai/tutorials/rag-chatbot-on-podcast-llamaindex-faiss-openai
+
+# License
+MIT
