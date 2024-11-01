@@ -1,0 +1,12 @@
+name: rag-chatbot-podcast
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - faiss-cpu
+  - feedparser 
+  - llama-index
+  - nltk
+  - python-dotenv
+  - unstructured 
