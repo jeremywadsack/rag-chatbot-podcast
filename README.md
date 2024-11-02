@@ -1,6 +1,9 @@
-# RAG-based Chatbot project
-A RAG chatbot with Llamaindex, FAISS, OpenAI
-Tutorial: https://learnbybuilding.ai/tutorials/rag-chatbot-on-podcast-llamaindex-faiss-openai
+# RAG, Chat, and Agent Sanddbox
+A collection of work following tutorials and guides to learn more about LLMs, RAGs, chatbots, and agentic workflows.
+
+Sources: 
+- https://learnbybuilding.ai/tutorials/rag-chatbot-on-podcast-llamaindex-faiss-openai
+- https://docs.llamaindex.ai/en/stable/understanding/
 
 # Dev Setup
 You will need python and pip installed.
