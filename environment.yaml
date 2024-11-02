@@ -1,4 +1,4 @@
-name: rag-chatbot-podcast
+name: rag-sandbox
 channels:
   - defaults
   - conda-forge

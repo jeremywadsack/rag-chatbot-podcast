@@ -20,7 +20,7 @@ Create and start the conda virtual environment and install the dependencies:
 
 ```bash
 conda env create --file environment.yaml
-conda activate rag-chatbot-podcast
+conda activate rag-sandbox
 ```
 
 You need to install a couple packages directly with `pip` because they are not available from Conda. :'(
